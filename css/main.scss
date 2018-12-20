@@ -1,0 +1,30 @@
+footer {
+        background-color: #007bff;
+        color: #ffffff;
+}
+
+#address-info {
+        font-size: 1.2rem;
+        color: #ffffff;
+
+        .col-md-6 {
+                padding-top: 80px;
+                padding-bottom: 80px;
+        }
+        i {
+                font-size: 3rem;
+        }
+
+        .first {
+                background-color: rgb(6, 153, 104);
+        }
+        .second {
+                background-color: rgb(4, 119, 196);
+        }
+        .third {
+                background-color: rgb(177, 4, 148);
+        }
+        .fourth {
+                background-color: rgb(233, 51, 5);
+        }
+}
